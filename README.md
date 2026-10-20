@@ -1,2 +1,2 @@
 # production-changeover-ml
-Machine learning for recognizing changeover activities on production machines.
+Recognition of Changeover Activities in Production Machines Using Machine Learning
