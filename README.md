@@ -87,6 +87,6 @@ Files created by the notebooks (`cleaned_data.csv`, `normalized_data.csv`, `outp
 - **Train/test split.** Notebook 02 uses a stratified random split. A chronological or group-wise split is a stricter test.
 - **Interpretation.** Correlations and model coefficients describe patterns in the data. They do not prove causes.
 
-## Technologies
+## Packs
 
 Python, pandas, NumPy, scikit-learn, matplotlib, seaborn, Jupyter.
